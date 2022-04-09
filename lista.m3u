@@ -79,7 +79,7 @@ https://cloudvideo.servers10.com:8081/8198/index.m3u8
 https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvsvJbb/66-Esperanza-TV.png" group-title="Religión",Religión | Esperanza TV
 https://5eac7b031d945.streamlock.net/WEB/WEB_source/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bsZX8n5/35-EJTV.png" group-title="Religión",Religión | Extrema TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jq7DgL9/56-Extrema-TV.png" group-title="Religión",Religión | Extrema TV
 https://www.livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6X4RnYk/41-SMO-TV.png" group-title="Religión",Religión | SMO TV
 http://186.15.50.30:8080/hls/smotv.m3u8
