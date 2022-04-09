@@ -57,6 +57,8 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 https://59ef525c24caa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b7kfWqb/59-TV-Retro-Palmares.png" group-title="Entretenimiento",Entretenimiento | TV Retro Palmares
 http://tvretropalmares.com:8090/hls/envivo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NLNpWkj/74-Zona-Films-TV.png" group-title="Entretenimiento",Entretenimiento | Zona Films TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/zonafilmstv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jGV0D8S/58-88-Stereo.png" group-title="Música",Música | 88 Stereo
 https://i.ibb.co/jGV0D8S/58-88-Stereo.png
