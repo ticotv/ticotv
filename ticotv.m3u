@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LR8GJBF/02-CDR.png" group-title="Nacionales",Nacionales | Canal 2
+https://d30zjikdv9ntds.cloudfront.net/repretel/canal2/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SX1XWBR/04-Repretel.png" group-title="Nacionales",Nacionales | Repretel 4
+https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W0cRTwT/06-Repretel.png" group-title="Nacionales",Nacionales | Repretel 6
+https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RzS3543/07-Teletica.png" group-title="Nacionales",Nacionales | Teletica
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x29e3wg
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VsJjM4/08-Canal-8.png" group-title="Nacionales",Nacionales | Canal 8
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/StprXDm/09-Canal-Nueve.png" group-title="Nacionales",Nacionales | Canal 9
+http://201.201.149.86:8080/livestream/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DW0Dmgm/11-Repretel.png" group-title="Nacionales",Nacionales | Repretel 11
+https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzB1CX2/13-Trece-Costa-Rica-Noticias.png" group-title="Nacionales",Nacionales | Trece Costa Rica Televisión
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vh8g3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qDC7tt9/15-Quince-UCR.png" group-title="Nacionales",Nacionales | Quince UCR
+http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FWVmR03/42-Extra-TV.png" group-title="Nacionales",Nacionales | Extra TV
+https://www.dailymotion.com/video/x83sd3v
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qrxFqXS/26-Antena-Seis.png" group-title="Regionales",Regionales | Antena 6
+http://inliveserver.com:1935/14510/14510/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qRdNTS8/39-Colosal-TV.png" group-title="Regionales",Regionales | Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jgsc98k/48-Nicoya-TV.png" group-title="Regionales",Regionales | Nicoya TV
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KVqmZhr/62-Norte-Informativo.png" group-title="Regionales",Regionales | Norte Informativo
+https://videohd.live:19360/8076/8076.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5nM6vRb/61-Santa-Cruz-TV.png" group-title="Regionales",Regionales | Santa Cruz TV
+https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x7mRq6g/30-Sarapiqui-TV.png" group-title="Regionales",Regionales | Sarapiquí TV
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZBj6kT/25-Tele-Sur.png" group-title="Regionales",Regionales | TeleSur
+https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x11x8TR/27-Tele-Uno.png" group-title="Regionales",Regionales | TeleUno
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ysPs9Qc/36-Trivision.png" group-title="Regionales",Regionales | Trivisión
+https://rtmp.info/anexiontv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2jtmgNw/19-TV-Sur.png" group-title="Regionales",Regionales | TV Sur (canal 9)
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pXJLTXR/17-TV-Sur.png" group-title="Regionales",Regionales | TV Sur (canal 14)
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09N5cHs/14-TVN.png" group-title="Regionales",Regionales | TVN
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xmcFKGX/44-Tele-Red.png" group-title="Entretenimiento",Entretenimiento | TeleRed
+http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1sWcN0w/46-Tele-Sistema.png" group-title="Entretenimiento",Entretenimiento | TeleSistema
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RvH9sxL/52-Tica-Vision.png" group-title="Entretenimiento",Entretenimiento | TicaVisión
+https://59ef525c24caa.streamlock.net/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b7kfWqb/59-TV-Retro-Palmares.png" group-title="Entretenimiento",Entretenimiento | TV Retro Palmares
+http://tvretropalmares.com:8090/hls/envivo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jGV0D8S/58-88-Stereo.png" group-title="Música",Música | 88 Stereo
+https://i.ibb.co/jGV0D8S/58-88-Stereo.png
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qRdNTS8/39-Colosal-TV.png" group-title="Música",Música | Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZgVqQxP/29-VM.png" group-title="Música",Música | VM
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NCv23Gy/64-Voice-Over-Radio-TV.png" group-title="Música",Música | Voice Over Radio TV
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bsZX8n5/35-EJTV.png" group-title="Religión",Religión | EJTV
+https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cvsvJbb/66-Esperanza-TV.png" group-title="Religión",Religión | Esperanza TV
+https://5eac7b031d945.streamlock.net/WEB/WEB_source/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bsZX8n5/35-EJTV.png" group-title="Religión",Religión | Extrema TV
+https://www.livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6X4RnYk/41-SMO-TV.png" group-title="Religión",Religión | SMO TV
+http://186.15.50.30:8080/hls/smotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9gBQcZ4/40-Tele-Fides.png" group-title="Religión",Religión | TeleFides
+https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
