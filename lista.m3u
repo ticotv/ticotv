@@ -62,7 +62,7 @@ http://tvretropalmares.com:8090/hls/envivo.m3u8
 https://i.ibb.co/jGV0D8S/58-88-Stereo.png
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRdNTS8/39-Colosal-TV.png" group-title="Música",Música | Colosal TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/ade26f32ba4868798ef1593a34e57ef7.png", Música | SOY Plancha TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/34MMWk5/28-SOY.png", Música | SOY Plancha TV
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wBZdQ5N/70-Video-Tour-Channel.png", Video Tour Channel | CR
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
