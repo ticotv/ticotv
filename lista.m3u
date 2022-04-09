@@ -28,7 +28,7 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KVqmZhr/62-Norte-Informativo.png" group-title="Regionales",Regionales | Norte Informativo
 https://videohd.live:19360/8076/8076.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/cbcfd98188337b1bf79a92b1afb60ad3.png", Regionales | San Vito TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSs73N0/68-San-Vito-TV.png", Regionales | San Vito TV
 https://stmv1.srvif.com/sanvito/sanvito/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5nM6vRb/61-Santa-Cruz-TV.png" group-title="Regionales",Regionales | Santa Cruz TV
 https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
@@ -64,9 +64,9 @@ https://i.ibb.co/jGV0D8S/58-88-Stereo.png
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/ade26f32ba4868798ef1593a34e57ef7.png", Música | SOY Plancha TV
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png", Video Tour Channel | CR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wBZdQ5N/70-Video-Tour-Channel.png", Video Tour Channel | CR
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png", Música | Vintage Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co/khPvg5Y/72-Vintage-Music-TV.png", Música | Vintage Music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZgVqQxP/29-VM.png" group-title="Música",Música | VM
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
