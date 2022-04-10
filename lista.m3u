@@ -6,7 +6,7 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/playlist.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W0cRTwT/06-Repretel.png" group-title="Nacionales",Nacionales | Repretel 6
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RzS3543/07-Teletica.png" group-title="Nacionales",Nacionales | Teletica
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x29e3wg
+https://list.iptvcat.com/my_list/s/4038c8789202588a76c4bd47f690f59b.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7VsJjM4/08-Canal-8.png" group-title="Nacionales",Nacionales | Canal 8
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/StprXDm/09-Canal-Nueve.png" group-title="Nacionales",Nacionales | Canal 9
@@ -20,8 +20,6 @@ http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FWVmR03/42-Extra-TV.png" group-title="Nacionales",Nacionales | Extra TV
 https://www.dailymotion.com/video/x83sd3v
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qrxFqXS/26-Antena-Seis.png" group-title="Regionales",Regionales | Antena 6
-http://inliveserver.com:1935/14510/14510/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRdNTS8/39-Colosal-TV.png" group-title="Regionales",Regionales | Colosal TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jgsc98k/48-Nicoya-TV.png" group-title="Regionales",Regionales | Nicoya TV
@@ -61,7 +59,7 @@ http://tvretropalmares.com:8090/hls/envivo.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/zonafilmstv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jGV0D8S/58-88-Stereo.png" group-title="Música",Música | 88 Stereo
-https://i.ibb.co/jGV0D8S/58-88-Stereo.png
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRdNTS8/39-Colosal-TV.png" group-title="Música",Música | Colosal TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/34MMWk5/28-SOY.png", Música | SOY Plancha TV
@@ -77,10 +75,14 @@ https://cloudvideo.servers10.com:8081/8198/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bsZX8n5/35-EJTV.png" group-title="Religión",Religión | EJTV
 https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bsZX8n5/35-EJTV.png" group-title="Religión",Religión | Enlace
+https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvsvJbb/66-Esperanza-TV.png" group-title="Religión",Religión | Esperanza TV
 https://5eac7b031d945.streamlock.net/WEB/WEB_source/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jq7DgL9/56-Extrema-TV.png" group-title="Religión",Religión | Extrema TV
 https://www.livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9gBQcZ4/40-Tele-Fides.png" group-title="Religión",Religión | San José TV
+https://list.iptvcat.com/my_list/s/a16a26903f76d9c2ece81383e5d4cc84.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6X4RnYk/41-SMO-TV.png" group-title="Religión",Religión | SMO TV
 http://186.15.50.30:8080/hls/smotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9gBQcZ4/40-Tele-Fides.png" group-title="Religión",Religión | TeleFides
